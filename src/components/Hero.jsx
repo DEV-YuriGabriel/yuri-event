@@ -30,7 +30,7 @@ export default function Hero() {
     <section ref={heroRef} style={{
       position: 'relative',
       minHeight: '100vh',
-      background: 'linear-gradient(160deg, #0d2340 0%, #15355e 55%, #1a3d6e 100%)',
+      background: 'linear-gradient(160deg, #e4e8eb 0%, #2869be 45%, #0b223a 100%)',
       display: 'flex',
       flexDirection: 'column',
       alignItems: 'center',
@@ -80,7 +80,7 @@ export default function Hero() {
         fontFamily: 'Playfair Display, serif',
         fontSize: 'clamp(2.6rem, 7vw, 5.2rem)',
         fontWeight: 900,
-        color: '#fff',
+        color: 'rgb(255, 255, 255)',
         lineHeight: 1.05,
         textShadow: '0 4px 24px rgba(0,0,0,0.4)',
       }}>
@@ -96,7 +96,7 @@ export default function Hero() {
 
       <p style={{
         fontSize: 'clamp(0.95rem, 2.2vw, 1.15rem)',
-        color: 'rgba(255,255,255,0.82)',
+        color: 'rgba(255, 255, 255, 0.82)',
         maxWidth: '560px',
         lineHeight: 1.7,
         fontFamily: 'Lato, sans-serif',

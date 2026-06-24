@@ -67,12 +67,27 @@ export default function Informacoes() {
                 <strong style={{ color: '#0d2340' }}>Segunda, 27/07/2026</strong>
               </div>
               <div style={rowStyle}>
-                <span>Credenciamento / Beca</span>
-                <strong style={{ color: '#0d2340' }}>17:00h</strong>
+                <span>Entrada dos Convidados</span>
+                <strong style={{ color: '#0d2340' }}>a partir das 17:00h</strong>
               </div>
-              <div style={{ ...rowStyle, borderBottom: 'none' }}>
+              <div style={rowStyle}>
                 <span>Início da Cerimônia</span>
-                <strong style={{ color: '#0d2340' }}>19:00h (est.)</strong>
+                <strong style={{ color: '#0d2340' }}>20:00h</strong>
+              </div>
+              <div style={{
+                marginTop: '12px',
+                padding: '10px 12px',
+                background: '#fff8e6',
+                border: '1px solid #e8c96a',
+                borderRadius: '4px',
+                fontSize: '0.85rem',
+                color: '#3a3a3a',
+                lineHeight: 1.6,
+              }}>
+                <span style={{ color: '#c9a227', fontWeight: 700, display: 'block', marginBottom: '4px' }}>
+                  ⚠️ Atenção
+                </span>
+                É obrigatória a apresentação do <strong>QR code individual</strong> para acesso dos convidados.
               </div>
             </div>
           </div>
