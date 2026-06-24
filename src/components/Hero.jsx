@@ -1,3 +1,4 @@
+//Hero.jsx Topo da página — título "Colocação de Grau", texto de boas-vindas, confetes animados e o badge com a data.
 import { useEffect, useRef } from 'react'
 
 export default function Hero() {

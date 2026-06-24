@@ -1,3 +1,7 @@
+// Formando.jsx Seção com seu nome e curso em destaque — "Yuri Gabriel Pimentel do Rosário" e "Análise e Desenvolvimento de Sistemas".
+
+
+
 export default function Formando() {
   return (
     <div style={{

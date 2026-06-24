@@ -1,3 +1,7 @@
+//Mapa.jsx Mapa do Google Maps incorporado com o endereço do IESB Sul e o bloco de endereço completo abaixo.
+ 
+
+
 export default function Mapa() {
   return (
     <section style={{ padding: '80px 24px', background: '#f5e9c0' }}>

@@ -1,3 +1,7 @@
+// Confirmacao.jsx Botão de confirmação de presença via WhatsApp — abre uma conversa direto com você.
+
+
+
 export default function Confirmacao() {
   const whatsapp = '5561986554514' // troca pelo seu número!
   const mensagem = encodeURIComponent('Olá Yuri! Confirmo minha presença na sua formatura 🎓')

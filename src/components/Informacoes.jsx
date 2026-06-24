@@ -1,3 +1,6 @@
+// Informacoes.jsx Dois cards lado a lado — um com data e horários do evento (entrada, cerimônia, aviso do QR code) e outro com o endereço do local.
+
+
 export default function Informacoes() {
   const cardStyle = {
     background: '#fff',

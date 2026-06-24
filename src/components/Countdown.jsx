@@ -1,3 +1,4 @@
+//Countdown.jsx Contagem regressiva em tempo real até 27/07/2026 às 20:00h — mostra dias, horas, minutos e segundos.
 import { useState, useEffect } from 'react'
 
 export default function Countdown() {
