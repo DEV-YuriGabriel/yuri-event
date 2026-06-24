@@ -29,7 +29,7 @@ export default function Formando() {
         color: '#e8c96a',
         marginBottom: '24px',
       }}>
-        Você está convidado!
+        Você está convidado(a)!
       </h2>
 
       <p style={{
